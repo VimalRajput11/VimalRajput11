@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">💻Coding Profiles:</h3>
   <a href="https://www.hackerrank.com/bca_2b_vimal_raj" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
@@ -94,5 +94,3 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VimalRajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </p>
-
-
