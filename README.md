@@ -15,16 +15,16 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vimal-rajput-918531249" target="blank">
+  <a href="https://linkedin.com/in/vimal-rajput-918531249" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/bca_2b_vimal_raj" target="blank">
+  <a href="https://www.hackerrank.com/bca_2b_vimal_raj" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/__vimal-rajput" target="blank">
+  <a href="https://www.leetcode.com/__vimal-rajput" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/vimal_rajput" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/vimal_rajput" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
@@ -88,4 +88,4 @@
 </p></br>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VimalRajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p></br>
