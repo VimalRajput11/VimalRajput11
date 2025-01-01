@@ -1,5 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Vimal Rajput</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vimalrajut11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -83,6 +86,8 @@
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VimalRajput11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p></br>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 <p align="center">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalRajput11&theme=radical" alt="GitHub Streak" />
 </p></br>
