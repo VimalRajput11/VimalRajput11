@@ -81,11 +81,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalRajput11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VimalRajput11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p></br>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalRajput11&theme=radical" alt="GitHub Streak" />
-</p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalRajput11&theme=radical" alt="GitHub Streak" />
+</p></br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VimalRajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VimalRajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
