@@ -87,5 +87,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalRajput11&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalrajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VimalRajput11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
