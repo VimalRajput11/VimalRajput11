@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vimalrajut11&theme=onedark&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=VimalRajut11&theme=onedark&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
@@ -81,10 +81,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalrajut11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VimalRajut11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalrajut11&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalRajut11&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalrajut11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
